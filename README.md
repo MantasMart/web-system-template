@@ -2,24 +2,24 @@
 - [ ] Meal recipe search system
 
 ## Description
-- [ ] Provide WEB system description in few sentences - its purpose, users, etc.
+- [ ] The web system is for helping people find meal recipies based on specified category or ingredient.
 
 ## Entity definition
 Meal Recipe:
    
       ID - number  
 
-      Meal – string
+      Meal – string (length - 30)
 
-      Category - string
+      Category - string (length - 20)
 
-      Instructions – string
+      Instructions – string 
 
-      Ingredient(s) - string
+      Ingredient(s) - string[] (length - 20)
 
-      Ingredient measure – string
+      Ingredient measure(s) – string[]  (length - 20)
 
-      Tags - string
+      Tags - string (length - 20)
 
 
 ## API definition
