@@ -7,11 +7,17 @@
 ## Entity definition
 Meal Recipe
     ID - number
+    
     Meal – string
+    
     Category - string
+    
     Instructions – string
-    Ingredient(s) - string 
+    
+    Ingredient(s) - string
+    
     Ingredient measure – string
+    
     Tags - string
 
 
