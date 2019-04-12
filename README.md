@@ -9,7 +9,7 @@ Meal Recipe:
    
       ID - number  
 
-      Meal – string (length - 30)
+      Meal – string (length - 40)
 
       Category - string (length - 20)
 
