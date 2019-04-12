@@ -5,21 +5,21 @@
 - [ ] Provide WEB system description in few sentences - its purpose, users, etc.
 
 ## Entity definition
-Meal Recipe
+Meal Recipe:
    
-   ID - number
+   ID - number  
+   
+   Meal – string
     
-    Meal – string
+   Category - string
     
-    Category - string
+   Instructions – string
     
-    Instructions – string
+   Ingredient(s) - string
     
-    Ingredient(s) - string
+   Ingredient measure – string
     
-    Ingredient measure – string
-    
-    Tags - string
+   Tags - string
 
 
 ## API definition
